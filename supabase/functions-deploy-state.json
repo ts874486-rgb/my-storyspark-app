@@ -1,0 +1,17 @@
+{
+  "projectId": "72555436",
+  "functions": {
+    "create-checkout": {
+      "hasChanged": false,
+      "hash": "dff771c1f6d742a2a6bb77ddd737ec4878384aaadc987013b7d48f18e5a6ba45"
+    },
+    "generate-story": {
+      "hasChanged": false,
+      "hash": "865fb360cab57b14110ebd0dc2687d82a5add2144d1751c3ea575e91eaa89f0b"
+    },
+    "payment-webhook": {
+      "hasChanged": false,
+      "hash": "3cd4d85d20958490c6315e27190340eee45a10830d602cd840eef0fd76cefb6a"
+    }
+  }
+}
